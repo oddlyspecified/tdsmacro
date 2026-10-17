@@ -1,4 +1,3 @@
-(DOWNLOAD MACRO FROM THE RELEASES, NOT FROM REPO)
 # Ultimate Macro - Macro for the Tower Defense Simulator 
 Started on March 30, 2026. My friend bet me that I wouldn't make a macro for TDS, but I did, lol.
 
